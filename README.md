@@ -12,6 +12,12 @@ single-cell analytical tools
 ### Slingshot: https://nbisweden.github.io/workshop-archive/workshop-scRNAseq/2020-01-27/labs/compiled/slingshot/slingshot.html
 
 
+## Cell Annotation 
+
+### CellTypist: https://github.com/Teichlab/celltypist
+### SEACells: https://github.com/dpeerlab/SEACells
+
+
 ## Differential Abundance analysis:
 
 ### MILO: https://github.com/MarioniLab/miloR
@@ -26,6 +32,10 @@ single-cell analytical tools
 
 ### BayesPrism: https://www.nature.com/articles/s43018-022-00356-3
 
+## Reference Mapping:
+
+### SCArches: https://github.com/theislab/scarches
+### Azimuth: https://github.com/satijalab/azimuth
 
 ## VDJ Alignment Tools
 
