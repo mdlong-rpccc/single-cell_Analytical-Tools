@@ -37,6 +37,9 @@ single-cell analytical tools
 ### SCArches: https://github.com/theislab/scarches
 ### Azimuth: https://github.com/satijalab/azimuth
 
+## Density estimation
+MELLON: https://github.com/settylab/mellon
+
 ## VDJ Alignment Tools
 
 ### MiXCR: https://github.com/milaboratory/mixcr/releases/tag/v4.4.0
