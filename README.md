@@ -3,8 +3,7 @@ single-cell analytical tools
 
 ## Gene Regulatory Networks in single-cells
 
-### SCENIC: https://www.nature.com/articles/nmeth.4463
-        https://github.com/aertslab/SCENIC
+### SCENIC: https://www.nature.com/articles/nmeth.4463, https://github.com/aertslab/SCENIC
 #### SCENIC+: https://www.nature.com/articles/s41592-023-01938-4?utm_source=twitter&utm_medium=social&utm_campaign=nmeth
 
 ## Trajectory inference:
