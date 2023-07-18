@@ -38,7 +38,12 @@ single-cell analytical tools
 ### Azimuth: https://github.com/satijalab/azimuth
 
 ## Density estimation
-MELLON: https://github.com/settylab/mellon
+### MELLON: https://github.com/settylab/mellon
+
+## Foundational Models
+### scGPT: https://github.com/bowang-lab/scGPT
+### Geneformer: https://www.nature.com/articles/s41586-023-06139-9
+### SCimilarity
 
 ## VDJ Alignment Tools
 
