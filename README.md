@@ -10,7 +10,7 @@ single-cell analytical tools
 
 ### Palantir: https://github.com/dpeerlab/Palantir
 ### Slingshot: https://nbisweden.github.io/workshop-archive/workshop-scRNAseq/2020-01-27/labs/compiled/slingshot/slingshot.html
-
+### CellRank: https://cellrank.readthedocs.io/en/latest/
 
 ## Cell Annotation 
 
@@ -36,6 +36,7 @@ single-cell analytical tools
 
 ### SCArches: https://github.com/theislab/scarches
 ### Azimuth: https://github.com/satijalab/azimuth
+### SCimilarity: https://www.biorxiv.org/content/10.1101/2023.07.18.549537v1
 
 ## Density estimation
 ### MELLON: https://github.com/settylab/mellon
